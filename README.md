@@ -28,6 +28,10 @@ The output is an animated GIF that shows how each model adapts over time, allowi
 2. Open the notebook in Jupyter or Google Colab.
 3. Run all cells to generate and view the GIF.
 
+Alternatively, use the Colab badge below to open it directly:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/regression-models-animation/blob/main/regression_models_animation.ipynb)
+
 ## Requirements
 ```bash
 pip install numpy matplotlib scikit-learn imageio
