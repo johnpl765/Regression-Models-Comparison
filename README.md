@@ -30,7 +30,7 @@ The output is an animated GIF that shows how each model adapts over time, allowi
 
 Alternatively, use the Colab badge below to open it directly:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/regression-models-animation/blob/main/regression_models_animation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnpl765/Regression-Models-Comparison/blob/main/regression_models_animation.ipynb)
 
 ## Requirements
 ```bash
